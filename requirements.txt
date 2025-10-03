@@ -1,0 +1,10 @@
+accelerate
+peft
+bitsandbytes
+transformers
+trl
+ipykernel
+datasets
+pandas
+scikit-learn
+# installed torch via pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 to enable cuda for my GPU
